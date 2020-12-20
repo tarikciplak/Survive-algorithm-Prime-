@@ -1,0 +1,11 @@
+Yarisma Basladi !
+Yarismaci HP= 100
+Yarismaci 6. metreye kadar bir engelle karsilasmadi.
+6 metrede bir engel var.
+Yarismaci HP= 100
+Yarismaci 46. metreye kadar bir engelle karsilasmadi.
+46 metrede bir engel var.
+Yarismaci HP= 100
+
+Tebrikler :) :) Basardin !!
+100 HP ile oyunu sonlandırdın
